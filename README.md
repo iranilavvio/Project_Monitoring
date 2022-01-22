@@ -1,0 +1,11 @@
+# Project_Monitoring
+![Screenshot 2022-01-22 103648](https://user-images.githubusercontent.com/57171115/150626938-8b38ea8c-d63f-4b3f-b0ca-91c328ec659d.png)
+![deleteproject](https://user-images.githubusercontent.com/57171115/150626950-cf646953-8588-4388-9a85-3b0dcf08caf2.png)
+![editproject](https://user-images.githubusercontent.com/57171115/150626951-377edd1c-8e90-491c-adad-8a237d64f76c.png)
+![edittask](https://user-images.githubusercontent.com/57171115/150626953-f4446009-1a42-4533-89e4-6f1e529b4fa3.png)
+![newproductivity](https://user-images.githubusercontent.com/57171115/150626954-8b0cf314-ffd8-41fe-87a1-49602be86532.png)
+![newproject](https://user-images.githubusercontent.com/57171115/150626955-e70f362a-93f1-4846-b8fb-58331e65b31f.png)
+![newtask](https://user-images.githubusercontent.com/57171115/150626956-b3438a17-e404-4cde-a3d1-2027b5857f86.png)
+![projectlist](https://user-images.githubusercontent.com/57171115/150626957-6b86d9f3-05ee-44cf-a48c-c204eb683222.png)
+![tasklist](https://user-images.githubusercontent.com/57171115/150626958-16003210-6876-415a-848d-2cf8c8a0ff87.png)
+![viewproject](https://user-images.githubusercontent.com/57171115/150626960-0fec6cd5-ab39-49c8-8724-371ecf611ba1.png)
